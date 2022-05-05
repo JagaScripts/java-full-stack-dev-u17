@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913423"
+  },
+  "codigo": 1,
+  "nombre": "Ventas",
+  "presupuesto": 103000
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913424"
+  },
+  "codigo": 2,
+  "nombre": "Investigación",
+  "presupuesto": 140000
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913425"
+  },
+  "codigo": 3,
+  "nombre": "Administración",
+  "presupuesto": 200000
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913426"
+  },
+  "codigo": 4,
+  "nombre": "Innovación",
+  "presupuesto": 670000
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913427"
+  },
+  "codigo": 5,
+  "nombre": "Desarrollo",
+  "presupuesto": 23000
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913428"
+  },
+  "codigo": 6,
+  "nombre": "Diseño",
+  "presupuesto": 560000
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913429"
+  },
+  "codigo": 7,
+  "nombre": "Marketing",
+  "presupuesto": 190000
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e2391342a"
+  },
+  "codigo": 8,
+  "nombre": "Dirección",
+  "presupuesto": 500000
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e2391342b"
+  },
+  "codigo": 9,
+  "nombre": "Ejecutivos intermedios",
+  "presupuesto": 900000
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e2391342c"
+  },
+  "codigo": 10,
+  "nombre": "Altos Ejecutivos",
+  "presupuesto": 9000000
+}]

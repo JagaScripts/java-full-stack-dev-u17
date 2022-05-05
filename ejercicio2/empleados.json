@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6273fadf6000e90e2391342d"
+  },
+  "DNI": 1,
+  "nombre": "Empleado 1",
+  "apellidos": "Apellido empleado 1",
+  "departamento": 1
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e2391342e"
+  },
+  "DNI": 2,
+  "nombre": "Empleado 2",
+  "apellidos": "Apellido empleado 2",
+  "departamento": 2
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e2391342f"
+  },
+  "DNI": 3,
+  "nombre": "Empleado 3",
+  "apellidos": "Apellido empleado 3",
+  "departamento": 3
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913430"
+  },
+  "DNI": 4,
+  "nombre": "Empleado 4",
+  "apellidos": "Apellido empleado 4",
+  "departamento": 4
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913431"
+  },
+  "DNI": 5,
+  "nombre": "Empleado 5",
+  "apellidos": "Apellido empleado 5",
+  "departamento": 5
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913432"
+  },
+  "DNI": 6,
+  "nombre": "Empleado 6",
+  "apellidos": "Apellido empleado 6",
+  "departamento": 6
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913433"
+  },
+  "DNI": 7,
+  "nombre": "Empleado 7",
+  "apellidos": "Apellido empleado 7",
+  "departamento": 7
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913434"
+  },
+  "DNI": 8,
+  "nombre": "Empleado 8",
+  "apellidos": "Apellido empleado 8",
+  "departamento": 8
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913435"
+  },
+  "DNI": 9,
+  "nombre": "Empleado 9",
+  "apellidos": "Apellido empleado 9",
+  "departamento": 9
+},{
+  "_id": {
+    "$oid": "6273fadf6000e90e23913436"
+  },
+  "DNI": 10,
+  "nombre": "Empleado 10",
+  "apellidos": "Apellido empleado 10",
+  "departamento": 10
+}]
