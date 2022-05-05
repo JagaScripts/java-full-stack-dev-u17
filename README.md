@@ -62,7 +62,7 @@ db.empleados.insertOne({DNI:10,nombre:"Empleado 10",apellidos:"Apellido empleado
 db.empleados.find()
 ```
 
-#Ejercicio 3
+# Ejercicio 3
 
 ```
 use ejercicio3
