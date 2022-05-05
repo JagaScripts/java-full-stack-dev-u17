@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "627426466000e90e23913437"
+  },
+  "numReferencia": "0MN7",
+  "contenido": "Rocks",
+  "valor": 103,
+  "almacen": 1
+},{
+  "_id": {
+    "$oid": "627426466000e90e23913438"
+  },
+  "numReferencia": "4H8P",
+  "contenido": "Rocks",
+  "valor": 140,
+  "almacen": 2
+},{
+  "_id": {
+    "$oid": "627426466000e90e23913439"
+  },
+  "numReferencia": "4RT3",
+  "contenido": "Scissors",
+  "valor": 200,
+  "almacen": 3
+},{
+  "_id": {
+    "$oid": "627426466000e90e2391343a"
+  },
+  "numReferencia": "7G3H",
+  "contenido": "Rocks",
+  "valor": 670,
+  "almacen": 4
+},{
+  "_id": {
+    "$oid": "627426466000e90e2391343b"
+  },
+  "numReferencia": "8JN6",
+  "contenido": "Papers",
+  "valor": 23,
+  "almacen": 5
+},{
+  "_id": {
+    "$oid": "627426466000e90e2391343c"
+  },
+  "numReferencia": "8Y6U",
+  "contenido": "Papers",
+  "valor": 560,
+  "almacen": 6
+},{
+  "_id": {
+    "$oid": "627426466000e90e2391343d"
+  },
+  "numReferencia": "9J6F",
+  "contenido": "Papers",
+  "valor": 190,
+  "almacen": 7
+},{
+  "_id": {
+    "$oid": "627426466000e90e2391343e"
+  },
+  "numReferencia": "LL08",
+  "contenido": "Rocks",
+  "valor": 500,
+  "almacen": 8
+},{
+  "_id": {
+    "$oid": "627426466000e90e2391343f"
+  },
+  "numReferencia": "P0H6",
+  "contenido": "Scissors",
+  "valor": 90,
+  "almacen": 9
+},{
+  "_id": {
+    "$oid": "627426466000e90e23913440"
+  },
+  "numReferencia": "P2T6",
+  "contenido": "Scissors",
+  "valor": 90,
+  "almacen": 10
+}]
