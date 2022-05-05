@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "627446336000e90e239134f6"
+  },
+  "id": "0001",
+  "nombre": "EL BILLETE QUE ARDE… ¡Y NO SE QUEMA!",
+  "hores": 10
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134f7"
+  },
+  "id": "0002",
+  "nombre": "CAMINAR SOBRE HUEVOS… ¡SIN ROMPERLOS!",
+  "hores": 50
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134f8"
+  },
+  "id": "0003",
+  "nombre": "VIENDO BAILAR A LAS ONDAS DE SONIDO",
+  "hores": 60
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134f9"
+  },
+  "id": "0004",
+  "nombre": "HAZ GEODAS CON HUEVOS",
+  "hores": 30
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134fa"
+  },
+  "id": "0005",
+  "nombre": "CONVERTIR UNA PASTILLA DE JABÓN DE MARFIL EN UNA PALOMITA MONSTRUOSA",
+  "hores": 80
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134fb"
+  },
+  "id": "0006",
+  "nombre": "¡LAS PLANTAS CAMBIAN DE COLOR!",
+  "hores": 50
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134fc"
+  },
+  "id": "0007",
+  "nombre": "HACIENDO ENGORDAR A LOS OSITOS DE GOMA (Y OTRAS COSAS PEORES…)",
+  "hores": 15
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134fd"
+  },
+  "id": "0008",
+  "nombre": "ROCK CANDY CASERO… ¡Y CON UN PALO!",
+  "hores": 20
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134fe"
+  },
+  "id": "0009",
+  "nombre": "UNA PLANTA QUE CRECE EN UN CD",
+  "hores": 12
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134ff"
+  },
+  "id": "0010",
+  "nombre": "AGUJEREAR LA BOLSA SIN QUE SE SALGA EL AGUA",
+  "hores": 4
+}]

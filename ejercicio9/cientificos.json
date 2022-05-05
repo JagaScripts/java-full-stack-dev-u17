@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "627446336000e90e239134ec"
+  },
+  "DNI": "12345684",
+  "nombreCompleto": "Jose González Ruiz"
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134ed"
+  },
+  "DNI": "12345685",
+  "nombreCompleto": "Daniel Fernandez Lujan"
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134ee"
+  },
+  "DNI": "12345686",
+  "nombreCompleto": "Joan Hurtado Martín"
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134ef"
+  },
+  "DNI": "12345687",
+  "nombreCompleto": "Miguel Alcántara Garrido"
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134f0"
+  },
+  "DNI": "12345688",
+  "nombreCompleto": "Gerard Martinez Soja"
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134f1"
+  },
+  "DNI": "12345689",
+  "nombreCompleto": "Marc Marquez Sevilla"
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134f2"
+  },
+  "DNI": "12345610",
+  "nombreCompleto": "Veronika Rexbo Tomico"
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134f3"
+  },
+  "DNI": "12345611",
+  "nombreCompleto": "Constant Tomico Rexbo"
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134f4"
+  },
+  "DNI": "12345612",
+  "nombreCompleto": "Octavi Herraiz Llull"
+},{
+  "_id": {
+    "$oid": "627446336000e90e239134f5"
+  },
+  "DNI": "12345613",
+  "nombreCompleto": "Aida Queralt Lozano"
+}]

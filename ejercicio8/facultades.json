@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "627441be6000e90e239134c4"
+  },
+  "codigo": 1,
+  "nombre": "UAB"
+},{
+  "_id": {
+    "$oid": "627441be6000e90e239134c5"
+  },
+  "codigo": 2,
+  "nombre": "URV"
+},{
+  "_id": {
+    "$oid": "627441be6000e90e239134c6"
+  },
+  "codigo": 3,
+  "nombre": "Hardvard"
+},{
+  "_id": {
+    "$oid": "627441be6000e90e239134c7"
+  },
+  "codigo": 4,
+  "nombre": "Candbridge"
+},{
+  "_id": {
+    "$oid": "627441be6000e90e239134c8"
+  },
+  "codigo": 5,
+  "nombre": "Universitat de Valencia"
+},{
+  "_id": {
+    "$oid": "627441be6000e90e239134c9"
+  },
+  "codigo": 6,
+  "nombre": "MIT"
+},{
+  "_id": {
+    "$oid": "627441be6000e90e239134ca"
+  },
+  "codigo": 7,
+  "nombre": "Cannes"
+},{
+  "_id": {
+    "$oid": "627441be6000e90e239134cb"
+  },
+  "codigo": 8,
+  "nombre": "UMAA"
+},{
+  "_id": {
+    "$oid": "627441be6000e90e239134cc"
+  },
+  "codigo": 9,
+  "nombre": "UTL Salke"
+},{
+  "_id": {
+    "$oid": "627441be6000e90e239134cd"
+  },
+  "codigo": 0,
+  "nombre": "Universida Granada"
+}]

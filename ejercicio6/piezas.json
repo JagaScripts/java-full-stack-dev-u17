@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62743b216000e90e2391347d"
+  },
+  "codigo": 1,
+  "nombre": "Batería"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e2391347e"
+  },
+  "codigo": 2,
+  "nombre": "Bombillas"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e2391347f"
+  },
+  "codigo": 3,
+  "nombre": "Discos de frenos"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913480"
+  },
+  "codigo": 4,
+  "nombre": "Parabrisas"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913481"
+  },
+  "codigo": 5,
+  "nombre": "Indicador de presión de neumáticos"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913482"
+  },
+  "codigo": 6,
+  "nombre": "Faros delanteros"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913483"
+  },
+  "codigo": 7,
+  "nombre": "Bujías"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913484"
+  },
+  "codigo": 8,
+  "nombre": "Mando de llave a distancia"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913485"
+  },
+  "codigo": 9,
+  "nombre": "Tiradores de puertas y seguros de cierre"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913486"
+  },
+  "codigo": 10,
+  "nombre": "Fusibles"
+}]

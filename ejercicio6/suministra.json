@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "62743b216000e90e23913491"
+  },
+  "codigoPieza": "1",
+  "idProveedor": "000D",
+  "precio": 10
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913492"
+  },
+  "codigoPieza": "2",
+  "idProveedor": "000A",
+  "precio": 14
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913493"
+  },
+  "codigoPieza": "3",
+  "idProveedor": "000B",
+  "precio": 18
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913494"
+  },
+  "codigoPieza": "4",
+  "idProveedor": "000E",
+  "precio": 61
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913495"
+  },
+  "codigoPieza": "5",
+  "idProveedor": "000C",
+  "precio": 28
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913496"
+  },
+  "codigoPieza": "6",
+  "idProveedor": "000G",
+  "precio": 55
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913497"
+  },
+  "codigoPieza": "7",
+  "idProveedor": "000F",
+  "precio": 18
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913498"
+  },
+  "codigoPieza": "8",
+  "idProveedor": "000J",
+  "precio": 57
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913499"
+  },
+  "codigoPieza": "9",
+  "idProveedor": "000I",
+  "precio": 97
+},{
+  "_id": {
+    "$oid": "62743b216000e90e2391349a"
+  },
+  "codigoPieza": "10",
+  "idProveedor": "000H",
+  "precio": 97
+}]

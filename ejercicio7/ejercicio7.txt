@@ -1,0 +1,46 @@
+use ejercicio7
+db.cajeros.insertMany([{codigo:"12345684",nombre_completo:'Jose González Ruiz'},
+{codigo:"12345685",nombre_completo:'Daniel Fernandez Lujan'},
+{codigo:"12345686",nombre_completo:'Joan Hurtado Martín'},
+{codigo:"12345687",nombre_completo:'Miguel Alcántara Garrido'},
+{codigo:"12345688",nombre_completo:'Gerard Martinez Soja'},
+{codigo:"12345689",nombre_completo:'Marc Marquez Sevilla'},
+{codigo:"12345610",nombre_completo:'Veronika Rexbo Tomico'},
+{codigo:"12345611",nombre_completo:'Constant Tomico Rexbo'},
+{codigo:"12345612",nombre_completo:'Octavi Herraiz Llull'},
+{codigo:"12345613",nombre_completo:'Aida Queralt Lozano'},
+{codigo:"12345696",nombre_completo:'Adria Ruiz Esteban'}])
+
+db.productos.insertMany([{codigo:1,nombre:"Paneles solares y cargadores",precio:54},
+{codigo:2,nombre:"Llaveros inteligentes",precio:45},
+{codigo:3,nombre:"Altavoces portátiles",precio:23},
+{codigo:4,nombre:"Termómetros para bebés",precio:98},
+{codigo:5,nombre:"Asientos de automóvil",precio:57},
+{codigo:6,nombre:"Cortaúñas para bebés",precio:22},
+{codigo:7,nombre:"Camas para mascotas",precio:30},
+{codigo:8,nombre:"Cuencos de alimentación personalizados",precio:54},
+{codigo:9,nombre:"Collares de entrenamiento",precio:34},
+{codigo:0,nombre:"Mochilas",precio:34}])
+
+db.maquinaRegistradoras.insertMany([{codigo:1,piso:1},
+{codigo:2,piso:2},
+{codigo:3,piso:3},
+{codigo:4,piso:4},
+{codigo:5,piso:5},
+{codigo:6,piso:6},
+{codigo:7,piso:7},
+{codigo:8,piso:8},
+{codigo:9,piso:9},
+{codigo:0,piso:0}])
+
+db.venta.insertMany([{cajero:12345684,maquina:1,producto:7},
+{cajero:12345688,maquina:3,producto:5},
+{cajero:12345684,maquina:2,producto:4},
+{cajero:12345688,maquina:5,producto:4},
+{cajero:12345684,maquina:7,producto:4},
+{cajero:12345688,maquina:9,producto:4},
+{cajero:12345684,maquina:0,producto:4},
+{cajero:12345684,maquina:8,producto:3},
+{cajero:12345696,maquina:7,producto:2},
+{cajero:12345688,maquina:1,producto:1}])
+

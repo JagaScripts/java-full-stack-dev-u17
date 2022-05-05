@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62743b216000e90e23913487"
+  },
+  "id": "000A",
+  "nombre": "Tiendas Aurgi"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913488"
+  },
+  "id": "000B",
+  "nombre": "Autoexpress"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913489"
+  },
+  "id": "000C",
+  "nombre": "Totcar"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e2391348a"
+  },
+  "id": "000D",
+  "nombre": "Oscaro"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e2391348b"
+  },
+  "id": "000E",
+  "nombre": "Recambios-expres"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e2391348c"
+  },
+  "id": "000F",
+  "nombre": "Norauto"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e2391348d"
+  },
+  "id": "000G",
+  "nombre": "Rexbo"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e2391348e"
+  },
+  "id": "000H",
+  "nombre": "Piezascochesonline"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e2391348f"
+  },
+  "id": "000I",
+  "nombre": "Dosochoauto"
+},{
+  "_id": {
+    "$oid": "62743b216000e90e23913490"
+  },
+  "id": "000J",
+  "nombre": "Recambioclasico"
+}]

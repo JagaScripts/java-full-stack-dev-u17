@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "62743eca6000e90e239134a6"
+  },
+  "codigo": 1,
+  "nombre": "Paneles solares y cargadores",
+  "precio": 54
+},{
+  "_id": {
+    "$oid": "62743eca6000e90e239134a7"
+  },
+  "codigo": 2,
+  "nombre": "Llaveros inteligentes",
+  "precio": 45
+},{
+  "_id": {
+    "$oid": "62743eca6000e90e239134a8"
+  },
+  "codigo": 3,
+  "nombre": "Altavoces portátiles",
+  "precio": 23
+},{
+  "_id": {
+    "$oid": "62743eca6000e90e239134a9"
+  },
+  "codigo": 4,
+  "nombre": "Termómetros para bebés",
+  "precio": 98
+},{
+  "_id": {
+    "$oid": "62743eca6000e90e239134aa"
+  },
+  "codigo": 5,
+  "nombre": "Asientos de automóvil",
+  "precio": 57
+},{
+  "_id": {
+    "$oid": "62743eca6000e90e239134ab"
+  },
+  "codigo": 6,
+  "nombre": "Cortaúñas para bebés",
+  "precio": 22
+},{
+  "_id": {
+    "$oid": "62743eca6000e90e239134ac"
+  },
+  "codigo": 7,
+  "nombre": "Camas para mascotas",
+  "precio": 30
+},{
+  "_id": {
+    "$oid": "62743eca6000e90e239134ad"
+  },
+  "codigo": 8,
+  "nombre": "Cuencos de alimentación personalizados",
+  "precio": 54
+},{
+  "_id": {
+    "$oid": "62743eca6000e90e239134ae"
+  },
+  "codigo": 9,
+  "nombre": "Collares de entrenamiento",
+  "precio": 34
+},{
+  "_id": {
+    "$oid": "62743eca6000e90e239134af"
+  },
+  "codigo": 0,
+  "nombre": "Mochilas",
+  "precio": 34
+}]

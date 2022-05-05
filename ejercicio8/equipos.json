@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "627442fd6000e90e239134d8"
+  },
+  "numeroSerie": "fase",
+  "nombre": "Equipo0",
+  "facultad": 0
+},{
+  "_id": {
+    "$oid": "627442fd6000e90e239134d9"
+  },
+  "numeroSerie": "dfsd",
+  "nombre": "Equipo3",
+  "facultad": 8
+},{
+  "_id": {
+    "$oid": "627442fd6000e90e239134da"
+  },
+  "numeroSerie": "uER3",
+  "nombre": "Equipo4",
+  "facultad": 7
+},{
+  "_id": {
+    "$oid": "627442fd6000e90e239134db"
+  },
+  "numeroSerie": "Sdfa",
+  "nombre": "Equipo5",
+  "facultad": 9
+},{
+  "_id": {
+    "$oid": "627442fd6000e90e239134dc"
+  },
+  "numeroSerie": "sdfe",
+  "nombre": "Equipo6",
+  "facultad": 3
+},{
+  "_id": {
+    "$oid": "627442fd6000e90e239134dd"
+  },
+  "numeroSerie": "dfas",
+  "nombre": "Equipo5",
+  "facultad": 7
+},{
+  "_id": {
+    "$oid": "627442fd6000e90e239134de"
+  },
+  "numeroSerie": "JKds",
+  "nombre": "Equipo6",
+  "facultad": 3
+},{
+  "_id": {
+    "$oid": "627442fd6000e90e239134df"
+  },
+  "numeroSerie": "djdf",
+  "nombre": "Equipo1",
+  "facultad": 2
+},{
+  "_id": {
+    "$oid": "627442fd6000e90e239134e0"
+  },
+  "numeroSerie": "dssd",
+  "nombre": "Equipo5",
+  "facultad": 1
+},{
+  "_id": {
+    "$oid": "627442fd6000e90e239134e1"
+  },
+  "numeroSerie": "dass",
+  "nombre": "Equipo1",
+  "facultad": 1
+}]

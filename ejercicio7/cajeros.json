@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "62743d396000e90e2391349b"
+  },
+  "codigo": "12345684",
+  "nombre_completo": "Jose González Ruiz"
+},{
+  "_id": {
+    "$oid": "62743d396000e90e2391349c"
+  },
+  "codigo": "12345685",
+  "nombre_completo": "Daniel Fernandez Lujan"
+},{
+  "_id": {
+    "$oid": "62743d396000e90e2391349d"
+  },
+  "codigo": "12345686",
+  "nombre_completo": "Joan Hurtado Martín"
+},{
+  "_id": {
+    "$oid": "62743d396000e90e2391349e"
+  },
+  "codigo": "12345687",
+  "nombre_completo": "Miguel Alcántara Garrido"
+},{
+  "_id": {
+    "$oid": "62743d396000e90e2391349f"
+  },
+  "codigo": "12345688",
+  "nombre_completo": "Gerard Martinez Soja"
+},{
+  "_id": {
+    "$oid": "62743d396000e90e239134a0"
+  },
+  "codigo": "12345689",
+  "nombre_completo": "Marc Marquez Sevilla"
+},{
+  "_id": {
+    "$oid": "62743d396000e90e239134a1"
+  },
+  "codigo": "12345610",
+  "nombre_completo": "Veronika Rexbo Tomico"
+},{
+  "_id": {
+    "$oid": "62743d396000e90e239134a2"
+  },
+  "codigo": "12345611",
+  "nombre_completo": "Constant Tomico Rexbo"
+},{
+  "_id": {
+    "$oid": "62743d396000e90e239134a3"
+  },
+  "codigo": "12345612",
+  "nombre_completo": "Octavi Herraiz Llull"
+},{
+  "_id": {
+    "$oid": "62743d396000e90e239134a4"
+  },
+  "codigo": "12345613",
+  "nombre_completo": "Aida Queralt Lozano"
+},{
+  "_id": {
+    "$oid": "62743d396000e90e239134a5"
+  },
+  "codigo": "12345696",
+  "nombre_completo": "Adria Ruiz Esteban"
+}]

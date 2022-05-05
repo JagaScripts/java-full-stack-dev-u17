@@ -1,0 +1,43 @@
+use ejercicio9
+db.cientificos.insertMany([
+    {DNI:'12345684',nombreCompleto: 'Jose González Ruiz'},
+    {DNI:'12345685',nombreCompleto: 'Daniel Fernandez Lujan'},
+    {DNI:'12345686',nombreCompleto: 'Joan Hurtado Martín'},
+    {DNI:'12345687',nombreCompleto: 'Miguel Alcántara Garrido'},
+    {DNI:'12345688',nombreCompleto: 'Gerard Martinez Soja'},
+    {DNI:'12345689',nombreCompleto: 'Marc Marquez Sevilla'},
+    {DNI:'12345610',nombreCompleto: 'Veronika Rexbo Tomico'},
+    {DNI:'12345611',nombreCompleto: 'Constant Tomico Rexbo'},
+    {DNI:'12345612',nombreCompleto: 'Octavi Herraiz Llull'},
+    {DNI:'12345613',nombreCompleto: 'Aida Queralt Lozano'}
+])
+
+
+
+db.proyectos.insertMany([
+    {id:'0001' ,nombre: 'EL BILLETE QUE ARDE… ¡Y NO SE QUEMA!',hores:10},
+{id:'0002' ,nombre: 'CAMINAR SOBRE HUEVOS… ¡SIN ROMPERLOS!',hores:50},
+{id:'0003' ,nombre: 'VIENDO BAILAR A LAS ONDAS DE SONIDO',hores:60},
+{id:'0004' ,nombre: 'HAZ GEODAS CON HUEVOS',hores:30},
+{id:'0005' ,nombre: 'CONVERTIR UNA PASTILLA DE JABÓN DE MARFIL EN UNA PALOMITA MONSTRUOSA',hores:80},
+{id:'0006' ,nombre: '¡LAS PLANTAS CAMBIAN DE COLOR!',hores:50},
+{id:'0007' ,nombre: 'HACIENDO ENGORDAR A LOS OSITOS DE GOMA (Y OTRAS COSAS PEORES…)',hores:15},
+{id:'0008' ,nombre: 'ROCK CANDY CASERO… ¡Y CON UN PALO!',hores:20},
+{id:'0009' ,nombre: 'UNA PLANTA QUE CRECE EN UN CD',hores:12},
+{id:'0010' ,nombre: 'AGUJEREAR LA BOLSA SIN QUE SE SALGA EL AGUA',hores: 4}
+])
+
+
+
+db.asignado_a.insertMany([
+{cientifico:'12345684',proyecto:'0010',precio:20},
+{cientifico:'12345685',proyecto:'0001',precio:10},
+{cientifico:'12345686',proyecto:'0002',precio:24},
+{cientifico:'12345687',proyecto:'0003',precio:30},
+{cientifico:'12345688',proyecto:'0004',precio:10},
+{cientifico:'12345689',proyecto:'0005',precio:20},
+{cientifico:'12345610',proyecto:'0006',precio:24},
+{cientifico:'12345611',proyecto:'0007',precio:22},
+{cientifico:'12345612',proyecto:'0008',precio:68},
+{cientifico:'12345613',proyecto:'0009',precio:50}
+])

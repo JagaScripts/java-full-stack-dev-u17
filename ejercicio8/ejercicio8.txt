@@ -1,0 +1,46 @@
+use ejercicio8
+db.facultades.insertMany([{codigo:1,nombre:"UAB"},
+{codigo:2,nombre:"URV"},
+{codigo:3,nombre:"Hardvard"},
+{codigo:4,nombre:"Candbridge"},
+{codigo:5,nombre:"Universitat de Valencia"},
+{codigo:6,nombre:"MIT"},
+{codigo:7,nombre:"Cannes"},
+{codigo:8,nombre:"UMAA"},
+{codigo:9,nombre:"UTL Salke"},
+{codigo:0,nombre:"Universida Granada"}])
+
+db.investigadores.insertMany([{DNI:"12345684",nombreCompleto:"Jose González Ruiz",facultad:1},
+{DNI:"12345685",nombreCompleto:"Daniel Fernandez Lujan",facultad:2},
+{DNI:"12345686",nombreCompleto:"Joan Hurtado Martín",facultad:3},
+{DNI:"12345687",nombreCompleto:"Miguel Alcántara Garrido",facultad:4},
+{DNI:"12345688",nombreCompleto:"Gerard Martinez Soja",facultad:5},
+{DNI:"12345689",nombreCompleto:"Marc Marquez Sevilla",facultad:6},
+{DNI:"12345610",nombreCompleto:"Veronika Rexbo Tomico",facultad:7},
+{DNI:"12345611",nombreCompleto:"Constant Tomico Rexbo",facultad:8},
+{DNI:"12345612",nombreCompleto:"Octavi Herraiz Llull",facultad:9},
+{DNI:"12345613",nombreCompleto:"Aida Queralt Lozano",facultad:0}])
+
+db.equipos.insertMany([
+{numeroSerie:"fase",nombre:"Equipo0",facultad:0},
+{numeroSerie:"dfsd",nombre:"Equipo3",facultad:8},
+{numeroSerie:"uER3",nombre:"Equipo4",facultad:7},
+{numeroSerie:"Sdfa",nombre:"Equipo5",facultad:9},
+{numeroSerie:"sdfe",nombre:"Equipo6",facultad:3},
+{numeroSerie:"dfas",nombre:"Equipo5",facultad:7},
+{numeroSerie:"JKds",nombre:"Equipo6",facultad:3},
+{numeroSerie:"djdf",nombre:"Equipo1",facultad:2},
+{numeroSerie:"dssd",nombre:"Equipo5",facultad:1},
+{numeroSerie:"dass",nombre:"Equipo1",facultad:1}])
+
+db.reserva.insertMany([
+{DNI:"12345684",numeroSerie:"fase",comienzo: "2010-05-10",fin: "2010-06-10"},
+{DNI:"12345686",numeroSerie:"dfsd",comienzo: "2010-05-23",fin: "2010-06-12"},
+{DNI:"12345685",numeroSerie:"uER3",comienzo: "2010-05-23",fin: "2010-06-12"},
+{DNI:"12345687",numeroSerie:"uER3",comienzo: "2010-05-23",fin: "2010-06-12"},
+{DNI:"12345688",numeroSerie:"sdfe",comienzo: "2010-05-23",fin: "2010-06-12"},
+{DNI:"12345689",numeroSerie:"dssd",comienzo: "2010-05-23",fin: "2010-06-12"},
+{DNI:"12345610",numeroSerie:"JKds",comienzo: "2010-03-23",fin: "2010-06-12"},
+{DNI:"12345611",numeroSerie:"JKds",comienzo: "2010-05-23",fin: "2010-06-12"},
+{DNI:"12345612",numeroSerie:"Sdfa",comienzo: "2010-03-23",fin: "2010-06-12"},
+{DNI:"12345613",numeroSerie:"dass",comienzo: "2010-05-23",fin: "2010-04-12"}])
