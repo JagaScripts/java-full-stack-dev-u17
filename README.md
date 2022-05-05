@@ -4,6 +4,7 @@ Este repositorio corresponde a ejercicios realizados en la formación de Java Fu
 
 Ejercicio 1
 
+```
 use ejercicio1
 db.createCollection("fabricantes")
 db.fabricantes.insertOne({codigo:1,nombre:"Asus"})
@@ -29,6 +30,7 @@ db.articulos.insertOne({codigo:8,nombre:"Portatil 8",precio:1028,fabricante:8})
 db.articulos.insertOne({codigo:9,nombre:"Portatil 9",precio:1029,fabricante:9})
 db.articulos.insertOne({codigo:10,nombre:"Portatil 10",precio:1030,fabricante:10})
 db.articulos.find()
+```
 
 Ejercicio2 
 
