@@ -2,7 +2,7 @@
 
 Este repositorio corresponde a ejercicios realizados en la formación de Java Full Stack Developer, concretamente a la unidad 17 UD17 – MongoDB
 
-Ejercicio 1
+#Ejercicio 1
 
 ```
 use ejercicio1
@@ -32,7 +32,7 @@ db.articulos.insertOne({codigo:10,nombre:"Portatil 10",precio:1030,fabricante:10
 db.articulos.find()
 ```
 
-Ejercicio2 
+#Ejercicio2 
 
 ```
 use ejercicio2
@@ -62,7 +62,7 @@ db.empleados.insertOne({DNI:10,nombre:"Empleado 10",apellidos:"Apellido empleado
 db.empleados.find()
 ```
 
-Ejercicio 3
+#Ejercicio 3
 
 ```
 use ejercicio3
@@ -102,7 +102,7 @@ db.almacenes.replaceOne({"_id":ObjectId("627426466000e90e2391344a")}, {"codigo":
 db.almacenes.replaceOne({"_id":ObjectId("627426466000e90e23913449")}, {"codigo": 9,  "lugar": "Barcelona",  "capacidad": 9000})
 ```
 
-Ejercicio 4 
+#Ejercicio 4 
 
 ```
 use ejercicio4
@@ -132,7 +132,7 @@ db.peliculas.insertOne({codigo:10,nombre:"Matrix",calificacionEdad:9})
 db.peliculas.find()
 ```
 
-Ejercicio 5
+#Ejercicio 5
 
 ```
 use ejercicio5
@@ -162,7 +162,7 @@ db.directores.insertOne({DNI:"745685214",nombreCompleto:"David Smith",despacho:9
 db.directores.find()
 ```
 
-Ejercicio 6 
+#Ejercicio 6 
 
 ```
 use ejercicio6
@@ -204,7 +204,7 @@ db.suministra.insertOne({codigoPieza:"10",idProveedor:"000H",precio:97})
 db.suministra.find()
 ```
 
-Ejercicio 7
+#Ejercicio 7
 
 ```
 use ejercicio7
@@ -254,7 +254,7 @@ db.venta.insertMany([{cajero:12345684,maquina:1,producto:7},
 {cajero:12345688,maquina:1,producto:1}])
 ```
 
-Ejercicio 8
+#Ejercicio 8
 
 ```
 use ejercicio8
@@ -305,7 +305,7 @@ db.reserva.insertMany([
 {DNI:"12345613",numeroSerie:"dass",comienzo: "2010-05-23",fin: "2010-04-12"}])
 ```
 
-Ejercicio 9
+#Ejercicio 9
 
 ```
 use ejercicio9
