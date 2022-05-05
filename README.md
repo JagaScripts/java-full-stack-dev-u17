@@ -34,6 +34,7 @@ db.articulos.find()
 
 Ejercicio2 
 
+```
 use ejercicio2
 db.createCollection("departamentos")
 db.departamentos.insertOne({codigo:1,nombre:"Ventas",presupuesto:103000})
@@ -59,9 +60,11 @@ db.empleados.insertOne({DNI:8,nombre:"Empleado 8",apellidos:"Apellido empleado 8
 db.empleados.insertOne({DNI:9,nombre:"Empleado 9",apellidos:"Apellido empleado 9",departamento:9})
 db.empleados.insertOne({DNI:10,nombre:"Empleado 10",apellidos:"Apellido empleado 10",departamento:10})
 db.empleados.find()
+```
 
 Ejercicio 3
 
+```
 use ejercicio3
 db.createCollection("cajas")
 db.cajas.insertOne({numReferencia:"0MN7",contenido:"Rocks",valor:103,almacen:1})
@@ -97,9 +100,11 @@ db.almacenes.replaceOne({"_id":ObjectId("627426466000e90e23913447")}, {"codigo":
 db.almacenes.replaceOne({"_id":ObjectId("627426466000e90e23913448")}, {"codigo": 8,  "lugar": "Barcelona",  "capacidad": 5000})
 db.almacenes.replaceOne({"_id":ObjectId("627426466000e90e2391344a")}, {"codigo": 10,  "lugar": "Bilbao",  "capacidad": 90000})
 db.almacenes.replaceOne({"_id":ObjectId("627426466000e90e23913449")}, {"codigo": 9,  "lugar": "Barcelona",  "capacidad": 9000})
+```
 
 Ejercicio 4 
 
+```
 use ejercicio4
 db.createCollection("salas")
 db.salas.insertOne({codigo:1,nombre:"Sala J",pelicula:10})
@@ -125,9 +130,11 @@ db.peliculas.insertOne({codigo:8,nombre:"Citizen King",calificacionEdad:5})
 db.peliculas.insertOne({codigo:9,nombre:"Hasta el último hombre",calificacionEdad:9})
 db.peliculas.insertOne({codigo:10,nombre:"Matrix",calificacionEdad:9})
 db.peliculas.find()
+```
 
 Ejercicio 5
 
+```
 use ejercicio5
 db.createCollection("despachos")
 db.despachos.insertOne({numero:1,capacidad:10})
@@ -153,9 +160,11 @@ db.directores.insertOne({DNI:"631231482",nombreCompleto:"George King",despacho:5
 db.directores.insertOne({DNI:"654873219",nombreCompleto:"John Doe",despacho:9,DNIjefe:"546523478"})
 db.directores.insertOne({DNI:"745685214",nombreCompleto:"David Smith",despacho:9,DNIjefe:null})
 db.directores.find()
+```
 
 Ejercicio 6 
 
+```
 use ejercicio6
 db.createCollection("piezas")
 db.piezas.insertOne({codigo:1,nombre:"Batería"})
@@ -193,9 +202,11 @@ db.suministra.insertOne({codigoPieza:"8",idProveedor:"000J",precio:57})
 db.suministra.insertOne({codigoPieza:"9",idProveedor:"000I",precio:97})
 db.suministra.insertOne({codigoPieza:"10",idProveedor:"000H",precio:97})
 db.suministra.find()
+```
 
 Ejercicio 7
 
+```
 use ejercicio7
 db.cajeros.insertMany([{codigo:"12345684",nombre_completo:'Jose González Ruiz'},
 {codigo:"12345685",nombre_completo:'Daniel Fernandez Lujan'},
@@ -241,9 +252,11 @@ db.venta.insertMany([{cajero:12345684,maquina:1,producto:7},
 {cajero:12345684,maquina:8,producto:3},
 {cajero:12345696,maquina:7,producto:2},
 {cajero:12345688,maquina:1,producto:1}])
+```
 
 Ejercicio 8
 
+```
 use ejercicio8
 db.facultades.insertMany([{codigo:1,nombre:"UAB"},
 {codigo:2,nombre:"URV"},
@@ -290,10 +303,11 @@ db.reserva.insertMany([
 {DNI:"12345611",numeroSerie:"JKds",comienzo: "2010-05-23",fin: "2010-06-12"},
 {DNI:"12345612",numeroSerie:"Sdfa",comienzo: "2010-03-23",fin: "2010-06-12"},
 {DNI:"12345613",numeroSerie:"dass",comienzo: "2010-05-23",fin: "2010-04-12"}])
-
+```
 
 Ejercicio 9
 
+```
 use ejercicio9
 db.cientificos.insertMany([
     {DNI:'12345684',nombreCompleto: 'Jose González Ruiz'},
@@ -337,3 +351,4 @@ db.asignado_a.insertMany([
 {cientifico:'12345612',proyecto:'0008',precio:68},
 {cientifico:'12345613',proyecto:'0009',precio:50}
 ])
+```
