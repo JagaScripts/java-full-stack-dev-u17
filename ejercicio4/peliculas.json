@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "627430106000e90e23913455"
+  },
+  "codigo": 1,
+  "nombre": "Citizen Kane",
+  "calificacionEdad": 10
+},{
+  "_id": {
+    "$oid": "627430106000e90e23913456"
+  },
+  "codigo": 2,
+  "nombre": "Singin' in the Rain",
+  "calificacionEdad": 14
+},{
+  "_id": {
+    "$oid": "627430106000e90e23913457"
+  },
+  "codigo": 3,
+  "nombre": "The Wizard of Oz",
+  "calificacionEdad": 18
+},{
+  "_id": {
+    "$oid": "627430106000e90e23913458"
+  },
+  "codigo": 4,
+  "nombre": "The Quiet Man",
+  "calificacionEdad": 6
+},{
+  "_id": {
+    "$oid": "627430106000e90e23913459"
+  },
+  "codigo": 5,
+  "nombre": "North by Northwest",
+  "calificacionEdad": 2
+},{
+  "_id": {
+    "$oid": "627430106000e90e2391345a"
+  },
+  "codigo": 6,
+  "nombre": "The Last Tango in Paris",
+  "calificacionEdad": 5
+},{
+  "_id": {
+    "$oid": "627430106000e90e2391345b"
+  },
+  "codigo": 7,
+  "nombre": "A Night at the Opera",
+  "calificacionEdad": 18
+},{
+  "_id": {
+    "$oid": "627430106000e90e2391345c"
+  },
+  "codigo": 8,
+  "nombre": "Citizen King",
+  "calificacionEdad": 5
+},{
+  "_id": {
+    "$oid": "627430106000e90e2391345d"
+  },
+  "codigo": 9,
+  "nombre": "Hasta el último hombre",
+  "calificacionEdad": 9
+},{
+  "_id": {
+    "$oid": "627430106000e90e2391345e"
+  },
+  "codigo": 10,
+  "nombre": "Matrix",
+  "calificacionEdad": 9
+}]

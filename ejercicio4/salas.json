@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "627430106000e90e2391344b"
+  },
+  "codigo": 1,
+  "nombre": "Sala J",
+  "pelicula": 10
+},{
+  "_id": {
+    "$oid": "627430106000e90e2391344c"
+  },
+  "codigo": 2,
+  "nombre": "Sala I",
+  "pelicula": 1
+},{
+  "_id": {
+    "$oid": "627430106000e90e2391344d"
+  },
+  "codigo": 3,
+  "nombre": "Sala H",
+  "pelicula": 2
+},{
+  "_id": {
+    "$oid": "627430106000e90e2391344e"
+  },
+  "codigo": 4,
+  "nombre": "Sala G",
+  "pelicula": 3
+},{
+  "_id": {
+    "$oid": "627430106000e90e2391344f"
+  },
+  "codigo": 5,
+  "nombre": "Sala F",
+  "pelicula": 4
+},{
+  "_id": {
+    "$oid": "627430106000e90e23913450"
+  },
+  "codigo": 6,
+  "nombre": "Sala E",
+  "pelicula": 5
+},{
+  "_id": {
+    "$oid": "627430106000e90e23913451"
+  },
+  "codigo": 7,
+  "nombre": "Sala D",
+  "pelicula": 6
+},{
+  "_id": {
+    "$oid": "627430106000e90e23913452"
+  },
+  "codigo": 8,
+  "nombre": "Sala C",
+  "pelicula": 7
+},{
+  "_id": {
+    "$oid": "627430106000e90e23913453"
+  },
+  "codigo": 9,
+  "nombre": "Sala B",
+  "pelicula": 8
+},{
+  "_id": {
+    "$oid": "627430106000e90e23913454"
+  },
+  "codigo": 10,
+  "nombre": "Sala A",
+  "pelicula": 9
+}]
