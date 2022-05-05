@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6273f2d26000e90e23913419"
+  },
+  "codigo": 1,
+  "nombre": "Portatil 1",
+  "precio": 1021,
+  "fabricante": 1
+},{
+  "_id": {
+    "$oid": "6273f2d26000e90e2391341a"
+  },
+  "codigo": 2,
+  "nombre": "Portatil 2",
+  "precio": 1022,
+  "fabricante": 2
+},{
+  "_id": {
+    "$oid": "6273f2d26000e90e2391341b"
+  },
+  "codigo": 3,
+  "nombre": "Portatil 3",
+  "precio": 1023,
+  "fabricante": 3
+},{
+  "_id": {
+    "$oid": "6273f2d26000e90e2391341c"
+  },
+  "codigo": 4,
+  "nombre": "Portatil 4",
+  "precio": 1024,
+  "fabricante": 4
+},{
+  "_id": {
+    "$oid": "6273f2d26000e90e2391341d"
+  },
+  "codigo": 5,
+  "nombre": "Portatil 5",
+  "precio": 1026,
+  "fabricante": 5
+},{
+  "_id": {
+    "$oid": "6273f2d26000e90e2391341e"
+  },
+  "codigo": 6,
+  "nombre": "Portatil 6",
+  "precio": 1026,
+  "fabricante": 6
+},{
+  "_id": {
+    "$oid": "6273f2d26000e90e2391341f"
+  },
+  "codigo": 7,
+  "nombre": "Portatil 7",
+  "precio": 1027,
+  "fabricante": 7
+},{
+  "_id": {
+    "$oid": "6273f2d26000e90e23913420"
+  },
+  "codigo": 8,
+  "nombre": "Portatil 8",
+  "precio": 1028,
+  "fabricante": 8
+},{
+  "_id": {
+    "$oid": "6273f2d26000e90e23913421"
+  },
+  "codigo": 9,
+  "nombre": "Portatil 9",
+  "precio": 1029,
+  "fabricante": 9
+},{
+  "_id": {
+    "$oid": "6273f2d26000e90e23913422"
+  },
+  "codigo": 10,
+  "nombre": "Portatil 10",
+  "precio": 1030,
+  "fabricante": 10
+}]

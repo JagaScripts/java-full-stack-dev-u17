@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6273efc96000e90e2391340f"
+  },
+  "codigo": 1,
+  "nombre": "Asus"
+},{
+  "_id": {
+    "$oid": "6273eff06000e90e23913410"
+  },
+  "codigo": 2,
+  "nombre": "Acer"
+},{
+  "_id": {
+    "$oid": "6273f0296000e90e23913411"
+  },
+  "codigo": 3,
+  "nombre": "Apple"
+},{
+  "_id": {
+    "$oid": "6273f06c6000e90e23913412"
+  },
+  "codigo": 4,
+  "nombre": "Sony"
+},{
+  "_id": {
+    "$oid": "6273f11d6000e90e23913413"
+  },
+  "codigo": 5,
+  "nombre": "Lenovo"
+},{
+  "_id": {
+    "$oid": "6273f11d6000e90e23913414"
+  },
+  "codigo": 6,
+  "nombre": "Dell"
+},{
+  "_id": {
+    "$oid": "6273f11d6000e90e23913415"
+  },
+  "codigo": 7,
+  "nombre": "Fujitsu"
+},{
+  "_id": {
+    "$oid": "6273f11d6000e90e23913416"
+  },
+  "codigo": 8,
+  "nombre": "HP"
+},{
+  "_id": {
+    "$oid": "6273f11d6000e90e23913417"
+  },
+  "codigo": 9,
+  "nombre": "Chromebooks"
+},{
+  "_id": {
+    "$oid": "6273f11d6000e90e23913418"
+  },
+  "codigo": 10,
+  "nombre": "Samsung"
+}]
