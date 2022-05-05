@@ -1,7 +1,5 @@
 use ejercicio1
-
 db.createCollection("fabricantes")
-
 db.fabricantes.insertOne({codigo:1,nombre:"Asus"})
 db.fabricantes.insertOne({codigo:2,nombre:"Acer"})
 db.fabricantes.insertOne({codigo:3,nombre:"Apple"})
@@ -12,11 +10,8 @@ db.fabricantes.insertOne({codigo:7,nombre:"Fujitsu"})
 db.fabricantes.insertOne({codigo:8,nombre:"HP"})
 db.fabricantes.insertOne({codigo:9,nombre:"Chromebooks"})
 db.fabricantes.insertOne({codigo:10,nombre:"Samsung"})
-
 db.fabricantes.find()
-
 db.createCollection("articulos")
-
 db.articulos.insertOne({codigo:1,nombre:"Portatil 1",precio:1021,fabricante:1})
 db.articulos.insertOne({codigo:2,nombre:"Portatil 2",precio:1022,fabricante:2})
 db.articulos.insertOne({codigo:3,nombre:"Portatil 3",precio:1023,fabricante:3})
@@ -27,5 +22,4 @@ db.articulos.insertOne({codigo:7,nombre:"Portatil 7",precio:1027,fabricante:7})
 db.articulos.insertOne({codigo:8,nombre:"Portatil 8",precio:1028,fabricante:8})
 db.articulos.insertOne({codigo:9,nombre:"Portatil 9",precio:1029,fabricante:9})
 db.articulos.insertOne({codigo:10,nombre:"Portatil 10",precio:1030,fabricante:10})
-
 db.articulos.find()
