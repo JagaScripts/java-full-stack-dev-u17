@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "627436356000e90e23913473"
+  },
+  "DNI": "123234877",
+  "nombreCompleto": "Michael Rogers",
+  "despacho": 10,
+  "DNIjefe": null
+},{
+  "_id": {
+    "$oid": "627436356000e90e23913474"
+  },
+  "DNI": "152934485",
+  "nombreCompleto": "Anand Manikutty",
+  "despacho": 14,
+  "DNIjefe": null
+},{
+  "_id": {
+    "$oid": "627436356000e90e23913475"
+  },
+  "DNI": "222364883",
+  "nombreCompleto": "Carol Smith",
+  "despacho": 18,
+  "DNIjefe": "123234877"
+},{
+  "_id": {
+    "$oid": "627436356000e90e23913476"
+  },
+  "DNI": "326587417",
+  "nombreCompleto": "Joe Man",
+  "despacho": 6,
+  "DNIjefe": null
+},{
+  "_id": {
+    "$oid": "627436356000e90e23913477"
+  },
+  "DNI": "332154719",
+  "nombreCompleto": "Stevens Northwest",
+  "despacho": 2,
+  "DNIjefe": null
+},{
+  "_id": {
+    "$oid": "627436356000e90e23913478"
+  },
+  "DNI": "332569843",
+  "nombreCompleto": "Mary-Anne Paris",
+  "despacho": 5,
+  "DNIjefe": "326587417"
+},{
+  "_id": {
+    "$oid": "627436356000e90e23913479"
+  },
+  "DNI": "546523478",
+  "nombreCompleto": "Foster Opera",
+  "despacho": 18,
+  "DNIjefe": "326587417"
+},{
+  "_id": {
+    "$oid": "627436356000e90e2391347a"
+  },
+  "DNI": "631231482",
+  "nombreCompleto": "George King",
+  "despacho": 5,
+  "DNIjefe": "326587417"
+},{
+  "_id": {
+    "$oid": "627436356000e90e2391347b"
+  },
+  "DNI": "654873219",
+  "nombreCompleto": "John Doe",
+  "despacho": 9,
+  "DNIjefe": "546523478"
+},{
+  "_id": {
+    "$oid": "627436356000e90e2391347c"
+  },
+  "DNI": "745685214",
+  "nombreCompleto": "David Smith",
+  "despacho": 9,
+  "DNIjefe": null
+}]

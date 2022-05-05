@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "627433ea6000e90e2391345f"
+  },
+  "numero": 1,
+  "capacidad": 10
+},{
+  "_id": {
+    "$oid": "627433ea6000e90e23913460"
+  },
+  "numero": 2,
+  "capacidad": 10
+},{
+  "_id": {
+    "$oid": "627433ea6000e90e23913461"
+  },
+  "numero": 3,
+  "capacidad": 20
+},{
+  "_id": {
+    "$oid": "627433ea6000e90e23913462"
+  },
+  "numero": 4,
+  "capacidad": 30
+},{
+  "_id": {
+    "$oid": "627433ea6000e90e23913463"
+  },
+  "numero": 5,
+  "capacidad": 40
+},{
+  "_id": {
+    "$oid": "627433ea6000e90e23913464"
+  },
+  "numero": 6,
+  "capacidad": 50
+},{
+  "_id": {
+    "$oid": "627433ea6000e90e23913465"
+  },
+  "numero": 7,
+  "capacidad": 60
+},{
+  "_id": {
+    "$oid": "627433ea6000e90e23913466"
+  },
+  "numero": 8,
+  "capacidad": 70
+},{
+  "_id": {
+    "$oid": "627433ea6000e90e23913467"
+  },
+  "numero": 9,
+  "capacidad": 80
+},{
+  "_id": {
+    "$oid": "627433ea6000e90e23913468"
+  },
+  "numero": 10,
+  "capacidad": 90
+}]
